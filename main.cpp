@@ -124,7 +124,7 @@ glPopMatrix();
     glVertex3f (0.9, 0.575, 0.0);
     glVertex3f (0.9, 0.575, 0.5);
     glEnd();
-//he5o be5o 
+//this is commit
     /* back tri */
     glColor3f (1, 0, 0);
     glBegin(GL_TRIANGLES);
